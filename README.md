@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🧠 I'm new to the world of programming, I'm currently studying at 42 Porto.<br><br>💬 Learning English.<br><br>Here you will find some of my 42 Porto projects and my future projects!</p>
+<p align="left">🧠 I'm new to the world of programming, I am currently studying at 42 Porto.<br><br>💬 Learning English.<br><br>Here you will find some of my 42 Porto projects and my future projects!</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -41,3 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brsoaresc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brsoaresc&radius=15&theme=redical&area=true&order=5" height="250" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/brsoaresc/brsoaresc/output/snake.svg" alt="Snake animation" />
+
+###
